@@ -1,15 +1,15 @@
-# Trabajo-Sostenibilidad
-# Plan de Sostenibilidad para una Empresa de Desarrollo de Software (DAM)
+# Plan de Sostenibilidad — Tema 5 (Evidencias, Materialidad y Plan de Sostenibilidad)
 
-## Datos del Módulo
-* **Ciclo Formativo:** Desarrollo de Aplicaciones Multiplataforma (DAM)
+## Datos de la Asignatura
+* **Ciclo Formativo:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 * **Curso:** DAM2
 * **Módulo:** Sostenibilidad
-* **Título del Tema:** Tema 5. Plan para una empresa DAM
+* **Título del tema:** Tema 5. Evidencias de sostenibilidad, grupos de interés, materialidad y elaboración del plan
+
+---
 
 ## Introducción del Tema
 
-El crecimiento acelerado de los servicios digitales y la industria del software exige que la sostenibilidad deje de ser una consideración teórica y se integre directamente en las competencias técnicas del desarrollo de aplicaciones. Este tema aborda el diseño, la ejecución y el seguimiento de un **Plan de Sostenibilidad** adaptado al contexto de una empresa o departamento de desarrollo multiplataforma.
+Este tema aborda cómo las organizaciones acreditan, estructuran y comunican de forma transparente sus compromisos ambientales, sociales y de gobernanza (ASG). Se analiza desde la verificación formal de prácticas mediante sistemas de gestión, certificaciones y tipos de ecoetiquetado (evitando el *greenwashing*), hasta la gestión de expectativas de los grupos de interés (*stakeholders*) y la determinación de la materialidad y doble materialidad.
 
-A lo largo del tema se establece un marco práctico con un **horizonte inicial de seis semanas**, donde se fijan metas de trabajo enfocadas en la eficiencia de recursos, la accesibilidad digital, la optimización de infraestructura en la nube y la gobernanza de datos. Como eje de aplicación real, se integra el proyecto intermodular **ReparaDAM**, una solución concebida para la gestión del inventario, mantenimiento y reutilización de equipos informáticos, uniendo la reducción del impacto ambiental del software con la extensión de la vida útil del hardware.
-
+Asimismo, integra todos estos elementos en la metodología práctica para elaborar un **Plan de Sostenibilidad**: partiendo del diagnóstico inicial y la definición de objetivos medibles (KPI), hasta la asignación de medidas, el seguimiento técnico y la redacción del informe final.
